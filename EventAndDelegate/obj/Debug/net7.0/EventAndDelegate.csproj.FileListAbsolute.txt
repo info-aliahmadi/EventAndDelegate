@@ -1,0 +1,15 @@
+D:\My Repos\EventAndDelegate\EventAndDelegate\bin\Debug\net7.0\EventAndDelegate.exe
+D:\My Repos\EventAndDelegate\EventAndDelegate\bin\Debug\net7.0\EventAndDelegate.deps.json
+D:\My Repos\EventAndDelegate\EventAndDelegate\bin\Debug\net7.0\EventAndDelegate.runtimeconfig.json
+D:\My Repos\EventAndDelegate\EventAndDelegate\bin\Debug\net7.0\EventAndDelegate.dll
+D:\My Repos\EventAndDelegate\EventAndDelegate\bin\Debug\net7.0\EventAndDelegate.pdb
+D:\My Repos\EventAndDelegate\EventAndDelegate\obj\Debug\net7.0\EventAndDelegate.csproj.AssemblyReference.cache
+D:\My Repos\EventAndDelegate\EventAndDelegate\obj\Debug\net7.0\EventAndDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Repos\EventAndDelegate\EventAndDelegate\obj\Debug\net7.0\EventAndDelegate.AssemblyInfoInputs.cache
+D:\My Repos\EventAndDelegate\EventAndDelegate\obj\Debug\net7.0\EventAndDelegate.AssemblyInfo.cs
+D:\My Repos\EventAndDelegate\EventAndDelegate\obj\Debug\net7.0\EventAndDelegate.csproj.CoreCompileInputs.cache
+D:\My Repos\EventAndDelegate\EventAndDelegate\obj\Debug\net7.0\EventAndDelegate.dll
+D:\My Repos\EventAndDelegate\EventAndDelegate\obj\Debug\net7.0\refint\EventAndDelegate.dll
+D:\My Repos\EventAndDelegate\EventAndDelegate\obj\Debug\net7.0\EventAndDelegate.pdb
+D:\My Repos\EventAndDelegate\EventAndDelegate\obj\Debug\net7.0\EventAndDelegate.genruntimeconfig.cache
+D:\My Repos\EventAndDelegate\EventAndDelegate\obj\Debug\net7.0\ref\EventAndDelegate.dll
